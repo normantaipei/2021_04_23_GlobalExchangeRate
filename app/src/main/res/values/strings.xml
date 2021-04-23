@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Mid_UI4A62</string>
+    <string name="upto">TWD(台幣)目前匯率</string>
+    <string name="downto">TWD(台幣)反向匯率</string>
+    <string-array name="coin">
+        <item>USD(美金)</item>
+        <item>HKD(港幣)</item>
+        <item>GBP(英鎊)</item>
+        <item>AUD(澳幣)</item>
+        <item>CAD(加拿大幣)</item>
+        <item>SGD(新加坡幣)</item>
+        <item>CHF(瑞士法郎)</item>
+        <item>JPY(日圓)</item>
+        <item>ZAR(南非幣)</item>
+        <item>SEK(瑞典幣)</item>
+        <item>NZD(紐元)</item>
+        <item>THB(泰幣)</item>
+        <item>PHP(菲國比索)</item>
+        <item>IDR(印尼幣)</item>
+        <item>EUR(歐元)</item>
+        <item>KRW(韓元)</item>
+        <item>VND(越南盾)</item>
+        <item>MYR(馬來幣)</item>
+        <item>CNY(人民幣)</item>
+    </string-array>
+    <string-array name="region_icon_list">
+        <item >@drawable/us</item>
+        <item >@drawable/hk</item>
+        <item >@drawable/gb</item>
+        <item >@drawable/au</item>
+        <item >@drawable/ca</item>
+        <item >@drawable/ch</item>
+        <item >@drawable/jp</item>
+        <item >@drawable/za</item>
+        <item >@drawable/se</item>
+        <item >@drawable/nz</item>
+        <item >@drawable/th</item>
+        <item >@drawable/ph</item>
+        <item >@drawable/ido</item>
+        <item >@drawable/euro</item>
+        <item >@drawable/kr</item>
+        <item >@drawable/vn</item>
+        <item >@drawable/my</item>
+        <item >@drawable/cn</item>
+    </string-array>
+
+    <string-array name="num">
+        <item>28.25</item>
+        <item>3.593</item>
+        <item>39.06</item>
+        <item>21.74</item>
+        <item>22.42</item>
+        <item>21.1</item>
+        <item>30.67</item>
+        <item>0.2587</item>
+        <item>1.938</item>
+        <item>3.3</item>
+        <item>20.08</item>
+        <item>0.8857</item>
+        <item>0.5865</item>
+        <item>0.0022</item>
+        <item>33.67</item>
+        <item>0.0275</item>
+        <item>0.0013</item>
+        <item>6.887</item>
+        <item>4.303</item>
+    </string-array>
+
+
+
+
+    
+</resources>
